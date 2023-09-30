@@ -1,2 +1,2 @@
-# Javascript-Project
-A code repo for jabascript
+# Javascript-Project 
+  Javascript-Tutorial
